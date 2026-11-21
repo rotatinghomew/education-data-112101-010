@@ -11,7 +11,7 @@
 
 ## 运行与检查
 
-需要 Python 3.11 或更高版本，无第三方运行依赖。运行 `python3 -m unittest discover -s tests` 检查合成资料是否可读；项目分析能力由后续开发提供。
+需要 Python 3.11 或更高版本，无第三方运行依赖。运行 `python3 -m unittest discover -s tests` 检查合成资料是否可读。
 
 ## 数据文件
 
