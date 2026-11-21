@@ -1,0 +1,4 @@
+review_ref,signal_ref,state,assigned_to,started_at,closed_at,outcome,reason
+R-1,S-1,in_progress,T-1,2026-03-05,,,
+R-2,S-2,closed,T-1,2026-03-05,2026-03-07,confirmed,
+R-3,S-3,waiting_evidence,,,,,source_check

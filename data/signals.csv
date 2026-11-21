@@ -1,0 +1,5 @@
+signal_ref,merchant_ref,session_ref,category,confidence,scope_band,created_at,source_ref
+S-1,M-1,L-1,sales_pressure,0.91,wide,2026-03-01,SRC-1
+S-2,M-1,L-2,renewal_claim,0.85,medium,2026-03-02,SRC-2
+S-3,M-2,L-3,credential_question,0.48,unknown,2026-03-03,SRC-3
+S-4,M-3,L-4,sales_pressure,0.78,wide,2026-03-03,SRC-4
