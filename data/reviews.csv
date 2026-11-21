@@ -2,3 +2,34 @@ review_ref,signal_ref,state,assigned_to,started_at,closed_at,outcome,reason
 R-1,S-1,in_progress,T-1,2026-03-05,,,
 R-2,S-2,closed,T-1,2026-03-05,2026-03-07,confirmed,
 R-3,S-3,waiting_evidence,,,,,source_check
+R-5,S-5,waiting_evidence,,,,excluded,duplicate source
+R-6,S-6,in_progress,T-3,2026-03-07,,,scope check
+R-7,S-7,closed,T-4,2026-03-08,2026-03-10,confirmed,confirmed claim
+R-8,S-8,waiting_evidence,,,,excluded,duplicate source
+R-9,S-9,in_progress,T-2,2026-03-10,,,scope check
+R-10,S-10,closed,T-3,2026-03-11,2026-03-13,confirmed,confirmed claim
+R-11,S-11,waiting_evidence,,,,excluded,duplicate source
+R-12,S-12,in_progress,T-1,2026-03-13,,,scope check
+R-13,S-13,closed,T-2,2026-03-14,2026-03-16,confirmed,confirmed claim
+R-14,S-14,waiting_evidence,,,,excluded,duplicate source
+R-15,S-15,in_progress,T-4,2026-03-16,,,scope check
+R-16,S-16,closed,T-1,2026-03-17,2026-03-19,confirmed,confirmed claim
+R-17,S-17,waiting_evidence,,,,excluded,duplicate source
+R-18,S-18,in_progress,T-3,2026-03-19,,,scope check
+R-19,S-19,closed,T-4,2026-03-20,2026-03-22,confirmed,confirmed claim
+R-20,S-20,waiting_evidence,,,,excluded,duplicate source
+R-21,S-21,in_progress,T-2,2026-03-22,,,scope check
+R-22,S-22,closed,T-3,2026-03-23,2026-03-25,confirmed,confirmed claim
+R-23,S-23,waiting_evidence,,,,excluded,duplicate source
+R-24,S-24,in_progress,T-1,2026-03-25,,,scope check
+R-25,S-25,closed,T-2,2026-03-26,2026-03-28,confirmed,confirmed claim
+R-26,S-26,waiting_evidence,,,,excluded,duplicate source
+R-27,S-27,in_progress,T-4,2026-03-01,,,scope check
+R-28,S-28,closed,T-1,2026-03-02,2026-03-04,confirmed,confirmed claim
+R-29,S-29,waiting_evidence,,,,excluded,duplicate source
+R-30,S-30,in_progress,T-3,2026-03-04,,,scope check
+R-31,S-31,closed,T-4,2026-03-05,2026-03-07,confirmed,confirmed claim
+R-32,S-32,waiting_evidence,,,,excluded,duplicate source
+R-33,S-33,in_progress,T-2,2026-03-07,,,scope check
+R-34,S-34,closed,T-3,2026-03-08,2026-03-10,confirmed,confirmed claim
+R-35,S-35,waiting_evidence,,,,excluded,duplicate source
