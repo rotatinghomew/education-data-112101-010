@@ -3,3 +3,15 @@ T-1,2026-W10,2,sales
 T-2,2026-W10,1,credentials
 T-1,2026-W11,1,sales
 T-2,2026-W11,2,credentials
+T-1,2026-W10,1,sales
+T-2,2026-W10,2,credentials
+T-3,2026-W10,3,refund
+T-4,2026-W10,1,general
+T-1,2026-W11,1,sales
+T-2,2026-W11,2,credentials
+T-3,2026-W11,3,refund
+T-4,2026-W11,1,general
+T-1,2026-W12,1,sales
+T-2,2026-W12,2,credentials
+T-3,2026-W12,3,refund
+T-4,2026-W12,1,general
